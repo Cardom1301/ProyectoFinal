@@ -1,0 +1,10 @@
+C:\Users\itzel\source\repos\FindWaldo\FindWaldo\bin\Debug\FindWaldo.exe.config
+C:\Users\itzel\source\repos\FindWaldo\FindWaldo\bin\Debug\FindWaldo.exe
+C:\Users\itzel\source\repos\FindWaldo\FindWaldo\bin\Debug\FindWaldo.pdb
+C:\Users\itzel\source\repos\FindWaldo\FindWaldo\obj\Debug\FindWaldo.csprojAssemblyReference.cache
+C:\Users\itzel\source\repos\FindWaldo\FindWaldo\obj\Debug\FindWaldo.Form1.resources
+C:\Users\itzel\source\repos\FindWaldo\FindWaldo\obj\Debug\FindWaldo.Properties.Resources.resources
+C:\Users\itzel\source\repos\FindWaldo\FindWaldo\obj\Debug\FindWaldo.csproj.GenerateResource.cache
+C:\Users\itzel\source\repos\FindWaldo\FindWaldo\obj\Debug\FindWaldo.csproj.CoreCompileInputs.cache
+C:\Users\itzel\source\repos\FindWaldo\FindWaldo\obj\Debug\FindWaldo.exe
+C:\Users\itzel\source\repos\FindWaldo\FindWaldo\obj\Debug\FindWaldo.pdb
